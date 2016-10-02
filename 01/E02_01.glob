@@ -1,0 +1,22 @@
+DIGEST 3bc1dc5934c4ff97a26d900a2d9c3a81
+FAssignment.E02_01
+R15:17 Assignment.P02 <> <> lib
+R109:112 Coq.Init.Logic <> :type_scope:x_'/\'_x not
+R88:88 Coq.Init.Logic <> :type_scope:x_'='_x not
+R100:103 Coq.Init.Logic <> :type_scope:x_'='_x not
+R89:95 Assignment.P02 <> blt_nat def
+R104:108 Coq.Init.Datatypes <> false constr
+R133:136 Coq.Init.Logic <> :type_scope:x_'/\'_x not
+R113:113 Coq.Init.Logic <> :type_scope:x_'='_x not
+R125:128 Coq.Init.Logic <> :type_scope:x_'='_x not
+R114:120 Assignment.P02 <> blt_nat def
+R129:132 Coq.Init.Datatypes <> true constr
+R137:137 Coq.Init.Logic <> :type_scope:x_'='_x not
+R149:152 Coq.Init.Logic <> :type_scope:x_'='_x not
+R138:144 Assignment.P02 <> blt_nat def
+R153:157 Coq.Init.Datatypes <> false constr
+R29:32 Coq.Init.Logic <> conj constr
+R49:52 Coq.Init.Logic <> conj constr
+R69:81 Assignment.P02 <> test_blt_nat3 ex
+R54:66 Assignment.P02 <> test_blt_nat2 ex
+R34:46 Assignment.P02 <> test_blt_nat1 ex

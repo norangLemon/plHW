@@ -1,0 +1,20 @@
+DIGEST ca25a1d0bcc63f7b4ef9b0359ec0a271
+FAssignment.D
+def 11:22 <> FILL_IN_HERE
+R36:36 Assignment.D <> T var
+def 60:66 <> beq_nat
+R75:77 Coq.Init.Datatypes <> nat ind
+R82:85 Coq.Init.Datatypes <> bool ind
+R98:98 Assignment.D <> n var
+R109:109 Coq.Init.Datatypes <> O constr
+R120:120 Assignment.D <> m var
+R138:138 Coq.Init.Datatypes <> O constr
+R143:146 Coq.Init.Datatypes <> true constr
+R159:159 Coq.Init.Datatypes <> S constr
+R167:171 Coq.Init.Datatypes <> false constr
+R190:190 Coq.Init.Datatypes <> S constr
+R204:204 Assignment.D <> m var
+R225:225 Coq.Init.Datatypes <> O constr
+R230:234 Coq.Init.Datatypes <> false constr
+R250:250 Coq.Init.Datatypes <> S constr
+R258:264 Assignment.D <> beq_nat def

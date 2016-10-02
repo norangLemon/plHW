@@ -1,0 +1,19 @@
+DIGEST b36c9af11dc73e195beca0d5b4a40b94
+FAssignment.E03_01
+R15:17 Assignment.P03 <> <> lib
+R51:53 Coq.Init.Datatypes <> nat ind
+R65:71 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R83:85 Coq.Init.Logic <> :type_scope:x_'='_x not
+R73:76 Coq.Init.Peano <> :nat_scope:x_'*'_x not
+R82:82 Coq.Init.Peano <> :nat_scope:x_'*'_x not
+R72:72 Assignment.E03_01 <> m var
+R78:80 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R81:81 Assignment.E03_01 <> n var
+R87:89 Coq.Init.Peano <> :nat_scope:x_'*'_x not
+R86:86 Assignment.E03_01 <> m var
+R90:90 Assignment.E03_01 <> m var
+R59:61 Coq.Init.Logic <> :type_scope:x_'='_x not
+R58:58 Assignment.E03_01 <> m var
+R62:62 Coq.Init.Datatypes <> S constr
+R64:64 Assignment.E03_01 <> n var
+R27:34 Assignment.P03 <> mult_S_1 thm

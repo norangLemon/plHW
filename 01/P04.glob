@@ -1,0 +1,10 @@
+DIGEST 86519edc4acdf770e5b015791a011ac5
+FAssignment.P04
+R15:17 Assignment.P03 <> <> lib
+prf 139:154 <> zero_nbeq_plus_1
+R169:171 Coq.Init.Datatypes <> nat ind
+R193:195 Coq.Init.Logic <> :type_scope:x_'='_x not
+R176:182 Assignment.D <> beq_nat def
+R188:190 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R187:187 Assignment.P04 <> n var
+R196:200 Coq.Init.Datatypes <> false constr

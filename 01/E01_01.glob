@@ -1,0 +1,14 @@
+DIGEST 37925a13e1179310b7267f7fc9d35fc4
+FAssignment.E01_01
+R15:17 Assignment.P01 <> <> lib
+R88:91 Coq.Init.Logic <> :type_scope:x_'/\'_x not
+R71:71 Coq.Init.Logic <> :type_scope:x_'='_x not
+R83:86 Coq.Init.Logic <> :type_scope:x_'='_x not
+R72:80 Assignment.P01 <> factorial def
+R92:92 Coq.Init.Logic <> :type_scope:x_'='_x not
+R104:107 Coq.Init.Logic <> :type_scope:x_'='_x not
+R93:101 Assignment.P01 <> factorial def
+R110:112 Coq.Init.Peano <> :nat_scope:x_'*'_x not
+R29:32 Coq.Init.Logic <> conj constr
+R51:65 Assignment.P01 <> test_factorial2 ex
+R34:48 Assignment.P01 <> test_factorial1 ex

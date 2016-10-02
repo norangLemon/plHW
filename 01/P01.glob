@@ -1,0 +1,24 @@
+DIGEST a7eae192ab39e769de257ff7428acd05
+FAssignment.P01
+R15:15 Assignment.D <> <> lib
+R356:358 Coq.Init.Peano <> :nat_scope:x_'*'_x not
+R379:379 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R381:381 Coq.Init.Peano <> :nat_scope:x_'*'_x not
+def 395:403 <> factorial
+R408:410 Coq.Init.Datatypes <> nat ind
+R415:417 Coq.Init.Datatypes <> nat ind
+R431:431 Assignment.P01 <> n var
+R442:442 Coq.Init.Datatypes <> O constr
+R453:453 Coq.Init.Datatypes <> S constr
+R462:464 Coq.Init.Peano <> :nat_scope:x_'*'_x not
+R461:461 Assignment.P01 <> n var
+R465:473 Assignment.P01 <> factorial def
+def 495:509 <> test_factorial1
+R521:521 Coq.Init.Logic <> :type_scope:x_'='_x not
+R533:536 Coq.Init.Logic <> :type_scope:x_'='_x not
+R522:530 Assignment.P01 <> factorial def
+def 573:587 <> test_factorial2
+R599:599 Coq.Init.Logic <> :type_scope:x_'='_x not
+R611:614 Coq.Init.Logic <> :type_scope:x_'='_x not
+R600:608 Assignment.P01 <> factorial def
+R617:619 Coq.Init.Peano <> :nat_scope:x_'*'_x not

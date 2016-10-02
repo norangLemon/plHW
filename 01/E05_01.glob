@@ -1,0 +1,21 @@
+DIGEST e37c182e32b16c2567d72ce8169326c7
+FAssignment.E05_01
+R15:17 Assignment.P05 <> <> lib
+R74:77 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R78:81 Coq.Init.Datatypes <> bool ind
+R70:73 Coq.Init.Datatypes <> bool ind
+R88:88 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R120:126 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R139:142 Coq.Init.Datatypes <> bool ind
+R153:155 Coq.Init.Logic <> :type_scope:x_'='_x not
+R146:146 Assignment.E05_01 <> f var
+R149:149 Assignment.E05_01 <> f var
+R151:151 Assignment.E05_01 <> b var
+R156:156 Assignment.E05_01 <> b var
+R101:104 Coq.Init.Datatypes <> bool ind
+R111:113 Coq.Init.Logic <> :type_scope:x_'='_x not
+R108:108 Assignment.E05_01 <> f var
+R110:110 Assignment.E05_01 <> x var
+R114:117 Coq.Init.Datatypes <> negb def
+R119:119 Assignment.E05_01 <> x var
+R27:51 Assignment.P05 <> negation_fn_applied_twice thm

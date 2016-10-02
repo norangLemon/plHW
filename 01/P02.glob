@@ -1,0 +1,34 @@
+DIGEST ac6e3d5e322d2aa8d7d38036f3cfdab5
+FAssignment.P02
+R15:17 Assignment.P01 <> <> lib
+def 201:207 <> blt_nat
+R216:218 Coq.Init.Datatypes <> nat ind
+R223:226 Coq.Init.Datatypes <> bool ind
+R239:239 Assignment.P02 <> n var
+R250:250 Coq.Init.Datatypes <> O constr
+R265:265 Assignment.P02 <> m var
+R278:278 Coq.Init.Datatypes <> O constr
+R283:287 Coq.Init.Datatypes <> false constr
+R295:295 Coq.Init.Datatypes <> S constr
+R303:306 Coq.Init.Datatypes <> true constr
+R320:320 Coq.Init.Datatypes <> S constr
+R338:338 Assignment.P02 <> m var
+R351:351 Coq.Init.Datatypes <> O constr
+R356:360 Coq.Init.Datatypes <> false constr
+R368:368 Coq.Init.Datatypes <> S constr
+R376:382 Assignment.P02 <> blt_nat def
+def 414:426 <> test_blt_nat1
+R441:441 Coq.Init.Logic <> :type_scope:x_'='_x not
+R453:456 Coq.Init.Logic <> :type_scope:x_'='_x not
+R442:448 Assignment.P02 <> blt_nat def
+R457:461 Coq.Init.Datatypes <> false constr
+def 497:509 <> test_blt_nat2
+R524:524 Coq.Init.Logic <> :type_scope:x_'='_x not
+R536:539 Coq.Init.Logic <> :type_scope:x_'='_x not
+R525:531 Assignment.P02 <> blt_nat def
+R540:543 Coq.Init.Datatypes <> true constr
+def 579:591 <> test_blt_nat3
+R606:606 Coq.Init.Logic <> :type_scope:x_'='_x not
+R618:621 Coq.Init.Logic <> :type_scope:x_'='_x not
+R607:613 Assignment.P02 <> blt_nat def
+R622:626 Coq.Init.Datatypes <> false constr
