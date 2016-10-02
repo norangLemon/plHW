@@ -1,4 +1,4 @@
-(*Require Export P04.*)
+Require Export P04.
 
 Theorem negation_fn_applied_twice : 
   forall (f : bool -> bool), 
