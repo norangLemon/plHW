@@ -1,0 +1,12 @@
+DIGEST d5c5851fd4943598d614d6925d6c652a
+FAssignment.P07
+R15:17 Assignment.P06 <> <> lib
+prf 115:125 <> app_nil_end
+R140:146 Assignment.D <> natlist ind
+R159:161 Coq.Init.Logic <> :type_scope:x_'='_x not
+R153:156 Assignment.D <> ::x_'++'_x not
+R152:152 Assignment.P07 <> l var
+R157:158 Assignment.D <> ::'['_']' not
+R162:162 Assignment.P07 <> l var
+R183:194 Assignment.D <> FILL_IN_HERE prfax
+R183:194 Assignment.D <> FILL_IN_HERE prfax

@@ -1,0 +1,14 @@
+DIGEST 46877bdfe7008b49c002eb095d3a2b2f
+FAssignment.P01
+R15:15 Assignment.D <> <> lib
+prf 29:37 <> plus_comm
+R54:56 Coq.Init.Datatypes <> nat ind
+R66:68 Coq.Init.Logic <> :type_scope:x_'='_x not
+R62:64 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R61:61 Assignment.P01 <> n var
+R65:65 Assignment.P01 <> m var
+R70:72 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R69:69 Assignment.P01 <> m var
+R73:73 Assignment.P01 <> n var
+R91:102 Assignment.D <> FILL_IN_HERE prfax
+R91:102 Assignment.D <> FILL_IN_HERE prfax

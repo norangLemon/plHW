@@ -1,0 +1,122 @@
+DIGEST 4b94b6c105628f9a6d3e816f622343de
+FAssignment.D
+R363:368 Coq.Program.Basics <> <> lib
+def 383:394 <> FILL_IN_HERE
+R408:408 Assignment.D <> T var
+def 485:490 <> double
+R495:497 Coq.Init.Datatypes <> nat ind
+R511:511 Assignment.D <> n var
+R522:522 Coq.Init.Datatypes <> O constr
+R527:527 Coq.Init.Datatypes <> O constr
+R533:533 Coq.Init.Datatypes <> S constr
+R541:541 Coq.Init.Datatypes <> S constr
+R544:544 Coq.Init.Datatypes <> S constr
+R547:552 Assignment.D <> double def
+ind 577:583 <> natprod
+constr 597:600 <> pair
+R607:610 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R614:617 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R618:624 Assignment.D <> natprod ind
+R611:613 Coq.Init.Datatypes <> nat ind
+R604:606 Coq.Init.Datatypes <> nat ind
+R653:656 Assignment.D <> pair constr
+not 637:637 <> ::'('_x_','_x_')'
+def 676:678 <> fst
+R695:701 Assignment.D <> natprod ind
+R715:715 Assignment.D <> p var
+R726:726 Assignment.D <> ::'('_x_','_x_')' not
+R728:729 Assignment.D <> ::'('_x_','_x_')' not
+R731:731 Assignment.D <> ::'('_x_','_x_')' not
+def 757:759 <> snd
+R766:772 Assignment.D <> natprod ind
+R777:779 Coq.Init.Datatypes <> nat ind
+R793:793 Assignment.D <> p var
+R804:804 Assignment.D <> ::'('_x_','_x_')' not
+R806:807 Assignment.D <> ::'('_x_','_x_')' not
+R809:809 Assignment.D <> ::'('_x_','_x_')' not
+def 835:843 <> swap_pair
+R850:856 Assignment.D <> natprod ind
+R861:867 Assignment.D <> natprod ind
+R881:881 Assignment.D <> p var
+R892:892 Assignment.D <> ::'('_x_','_x_')' not
+R894:894 Assignment.D <> ::'('_x_','_x_')' not
+R896:896 Assignment.D <> ::'('_x_','_x_')' not
+R901:901 Assignment.D <> ::'('_x_','_x_')' not
+R903:903 Assignment.D <> ::'('_x_','_x_')' not
+R905:905 Assignment.D <> ::'('_x_','_x_')' not
+ind 1000:1006 <> natlist
+constr 1022:1024 <> nil
+constr 1040:1043 <> cons
+R1028:1034 Assignment.D <> natlist ind
+R1050:1053 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R1061:1064 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R1065:1071 Assignment.D <> natlist ind
+R1054:1060 Assignment.D <> natlist ind
+R1047:1049 Coq.Init.Datatypes <> nat ind
+R1097:1100 Assignment.D <> cons constr
+not 1084:1084 <> ::x_'::'_x
+R1161:1163 Assignment.D <> nil constr
+not 1152:1152 <> ::'['_']'
+R1196:1199 Assignment.D <> cons constr
+R1207:1210 Assignment.D <> cons constr
+R1214:1216 Assignment.D <> nil constr
+not 1175:1175 <> ::'['_x_';'_'..'_';'_x_']'
+def 1234:1236 <> app
+R1247:1253 Assignment.D <> natlist ind
+R1258:1264 Assignment.D <> natlist ind
+R1278:1279 Assignment.D <> l1 var
+R1290:1292 Assignment.D <> nil constr
+R1300:1301 Assignment.D <> l2 var
+R1308:1311 Assignment.D <> ::x_'::'_x not
+R1318:1322 Assignment.D <> ::x_'::'_x not
+R1331:1331 Assignment.D <> ::x_'::'_x not
+R1323:1325 Assignment.D <> app def
+R1329:1330 Assignment.D <> l2 var
+R1363:1365 Assignment.D <> app def
+not 1350:1350 <> ::x_'++'_x
+def 1442:1443 <> hd
+R1454:1456 Coq.Init.Datatypes <> nat ind
+R1462:1468 Assignment.D <> natlist ind
+R1473:1475 Coq.Init.Datatypes <> nat ind
+R1488:1488 Assignment.D <> l var
+R1499:1501 Assignment.D <> nil constr
+R1506:1512 Assignment.D <> default var
+R1519:1522 Assignment.D <> ::x_'::'_x not
+prf 1546:1554 <> app_assoc
+R1576:1582 Assignment.D <> natlist ind
+R1604:1606 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1588:1588 Assignment.D <> ::x_'++'_x not
+R1597:1601 Assignment.D <> ::x_'++'_x not
+R1591:1594 Assignment.D <> ::x_'++'_x not
+R1589:1590 Assignment.D <> l1 var
+R1595:1596 Assignment.D <> l2 var
+R1602:1603 Assignment.D <> l3 var
+R1609:1613 Assignment.D <> ::x_'++'_x not
+R1622:1622 Assignment.D <> ::x_'++'_x not
+R1607:1608 Assignment.D <> l1 var
+R1616:1619 Assignment.D <> ::x_'++'_x not
+R1614:1615 Assignment.D <> l2 var
+R1620:1621 Assignment.D <> l3 var
+def 1757:1760 <> snoc
+R1765:1771 Assignment.D <> natlist ind
+R1777:1779 Coq.Init.Datatypes <> nat ind
+R1784:1790 Assignment.D <> natlist ind
+R1804:1804 Assignment.D <> l var
+R1815:1817 Assignment.D <> nil constr
+R1825:1825 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1827:1827 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1826:1826 Assignment.D <> v var
+R1834:1837 Assignment.D <> ::x_'::'_x not
+R1844:1848 Assignment.D <> ::x_'::'_x not
+R1857:1857 Assignment.D <> ::x_'::'_x not
+R1849:1852 Assignment.D <> snoc def
+R1856:1856 Assignment.D <> v var
+def 1876:1878 <> rev
+R1883:1889 Assignment.D <> natlist ind
+R1894:1900 Assignment.D <> natlist ind
+R1914:1914 Assignment.D <> l var
+R1925:1927 Assignment.D <> nil constr
+R1935:1937 Assignment.D <> nil constr
+R1944:1947 Assignment.D <> ::x_'::'_x not
+R1953:1956 Assignment.D <> snoc def
+R1959:1961 Assignment.D <> rev def

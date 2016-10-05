@@ -1,0 +1,20 @@
+DIGEST 91ca90c7442085f2ae70e943437dcc88
+FAssignment.P02
+R15:17 Assignment.P01 <> <> lib
+prf 31:40 <> plus_assoc
+R59:61 Coq.Init.Datatypes <> nat ind
+R77:79 Coq.Init.Logic <> :type_scope:x_'='_x not
+R67:70 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R76:76 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R66:66 Assignment.P02 <> n var
+R72:74 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R71:71 Assignment.P02 <> m var
+R75:75 Assignment.P02 <> p var
+R80:80 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R86:89 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R82:84 Coq.Init.Peano <> :nat_scope:x_'+'_x not
+R81:81 Assignment.P02 <> n var
+R85:85 Assignment.P02 <> m var
+R90:90 Assignment.P02 <> p var
+R109:120 Assignment.D <> FILL_IN_HERE prfax
+R109:120 Assignment.D <> FILL_IN_HERE prfax

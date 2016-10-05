@@ -1,0 +1,13 @@
+DIGEST e9571c1d4e789192f29fc5d9a26a2a55
+FAssignment.P05
+R15:17 Assignment.P04 <> <> lib
+prf 92:106 <> fst_swap_is_snd
+R122:128 Assignment.D <> natprod ind
+R151:153 Coq.Init.Logic <> :type_scope:x_'='_x not
+R134:136 Assignment.D <> fst def
+R139:147 Assignment.D <> swap_pair def
+R149:149 Assignment.P05 <> p var
+R154:156 Assignment.D <> snd def
+R158:158 Assignment.P05 <> p var
+R178:189 Assignment.D <> FILL_IN_HERE prfax
+R178:189 Assignment.D <> FILL_IN_HERE prfax

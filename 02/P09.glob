@@ -1,0 +1,17 @@
+DIGEST b6e38c672e4edc27d8050b4ac2fd31a4
+FAssignment.P09
+R15:17 Assignment.P08 <> <> lib
+prf 31:41 <> snoc_append
+R55:61 Assignment.D <> natlist ind
+R67:69 Coq.Init.Datatypes <> nat ind
+R83:85 Coq.Init.Logic <> :type_scope:x_'='_x not
+R75:78 Assignment.D <> snoc def
+R82:82 Assignment.P09 <> n var
+R80:80 Assignment.P09 <> l var
+R87:90 Assignment.D <> ::x_'++'_x not
+R86:86 Assignment.P09 <> l var
+R91:91 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R93:93 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R92:92 Assignment.P09 <> n var
+R111:122 Assignment.D <> FILL_IN_HERE prfax
+R111:122 Assignment.D <> FILL_IN_HERE prfax

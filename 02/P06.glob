@@ -1,0 +1,71 @@
+DIGEST cc5b58832ab1d52bac50de8e85a62bb7
+FAssignment.P06
+R15:17 Assignment.P05 <> <> lib
+def 726:734 <> alternate
+R745:751 Assignment.D <> natlist ind
+R756:762 Assignment.D <> natlist ind
+R769:780 Assignment.D <> FILL_IN_HERE prfax
+def 792:806 <> test_alternate1
+R841:843 Coq.Init.Logic <> :type_scope:x_'='_x not
+R816:824 Assignment.P06 <> alternate def
+R834:834 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R836:836 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R838:838 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R840:840 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R826:826 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R828:828 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R830:830 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R832:832 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R844:844 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R846:846 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R848:848 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R850:850 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R852:852 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R854:854 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R856:856 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R872:883 Assignment.D <> FILL_IN_HERE prfax
+R872:883 Assignment.D <> FILL_IN_HERE prfax
+def 899:913 <> test_alternate2
+R944:946 Coq.Init.Logic <> :type_scope:x_'='_x not
+R923:931 Assignment.P06 <> alternate def
+R937:937 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R939:939 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R941:941 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R943:943 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R933:933 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R935:935 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R947:947 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R949:949 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R951:951 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R953:953 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R955:955 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R971:982 Assignment.D <> FILL_IN_HERE prfax
+R971:982 Assignment.D <> FILL_IN_HERE prfax
+def 998:1012 <> test_alternate3
+R1043:1045 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1022:1030 Assignment.P06 <> alternate def
+R1040:1040 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1042:1042 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1032:1032 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1034:1034 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1036:1036 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1038:1038 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1046:1046 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1048:1048 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1050:1050 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1052:1052 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1054:1054 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1070:1081 Assignment.D <> FILL_IN_HERE prfax
+R1070:1081 Assignment.D <> FILL_IN_HERE prfax
+def 1097:1111 <> test_alternate4
+R1141:1143 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1121:1129 Assignment.P06 <> alternate def
+R1134:1134 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1137:1137 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1140:1140 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1131:1132 Assignment.D <> ::'['_']' not
+R1144:1144 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1147:1147 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1150:1150 Assignment.D <> ::'['_x_';'_'..'_';'_x_']' not
+R1166:1177 Assignment.D <> FILL_IN_HERE prfax
+R1166:1177 Assignment.D <> FILL_IN_HERE prfax
