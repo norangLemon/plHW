@@ -5,6 +5,7 @@
 ## Link
 
 * [과목 페이지](https://github.com/snu-sf-class/pl201602)
+* [교과서](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
 * 참조: [tutorial-nahas](http://kr.archive.ubuntu.com/ubuntu)
 
 ## 일정
